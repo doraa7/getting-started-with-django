@@ -9,7 +9,7 @@
   </p>
 </p>
 
-# Getting started with Django
+# Getting started with Django --- Write a CRM Application from Scratch
 
 CRM
 
