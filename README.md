@@ -11,6 +11,8 @@
 
 # Getting started with Django
 
+CRM
+
 This is the code from the course "Getting Started With Django", found on YouTube and JustDjango
 
 ---
